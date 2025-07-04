@@ -10,7 +10,7 @@
 
 - ✨ I’m currently learning **Data Science fundamentals (Python, SQL, ML, etc.).**
 
-- ✨ I’m looking to collaborate on **web development projects (MERN stack, PHP, Java, or Kotlin for mobile apps).**
+- ✨ I’m looking to collaborate on **web development projects (MERN stack, PHP, JAVA, or Kotlin for mobile apps).**
 
 - ✨ I’m looking for help with **transitioning into Data Science—resources, mentorship, or project ideas.**
 
